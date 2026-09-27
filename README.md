@@ -1,4 +1,4 @@
-## Hi there 👋
+🎓 Student & Aspiring Developer | Building web and mobile apps 💻 | Exploring full-stack dev & AI tools | Always learning new tech.
 
 <!--
 **thepsr7/thepsr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
